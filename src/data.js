@@ -11,6 +11,7 @@ export const PERFIL = {
 // Para usar una foto: guarda la imagen en public/imagenes/ y pon  imagen: "imagenes/mi-foto.jpg"
 // Si no pones "imagen", se muestra el emoji sobre el degradado.
 // "url" es opcional: si lo pones, la tarjeta abre ese enlace.
+
 export const TRABAJOS = [
   {
     tipo: "Proyecto",
@@ -19,7 +20,7 @@ export const TRABAJOS = [
     emoji: "🚀",
     a: "#a855f7",
     b: "#2563eb",
-    imagen: "/public/imagenes/image.png",
+    imagen: "/imagenes/image.png",
   },
   {
     tipo: "Colaboración",
@@ -28,7 +29,7 @@ export const TRABAJOS = [
     emoji: "🤝",
     a: "#6d28d9",
     b: "#38bdf8",
-    imagen: "/public/imagenes/image54.png",
+    imagen: "/imagenes/image54.png",
   },
   {
     tipo: "Diseño",
@@ -37,7 +38,7 @@ export const TRABAJOS = [
     emoji: "🎨",
     a: "#4f46e5",
     b: "#c084fc",
-    imagen: "/public/imagenes/image4.png",
+    imagen: "/imagenes/image4.png",
   },
   {
     tipo: "Evento",
@@ -46,7 +47,7 @@ export const TRABAJOS = [
     emoji: "🏆",
     a: "#2563eb",
     b: "#7c3aed",
-    imagen: "/public/imagenes/image2.png",
+    imagen: "/imagenes/image2.png",
   },
   {
     tipo: "Evento",
@@ -55,7 +56,7 @@ export const TRABAJOS = [
     emoji: "🏆",
     a: "#2563eb",
     b: "#7c3aed",
-    imagen: "/public/imagenes/image1.png",
+    imagen: "/imagenes/image1.png",
   },
   {
     tipo: "Evento",
@@ -64,7 +65,7 @@ export const TRABAJOS = [
     emoji: "🏆",
     a: "#2563eb",
     b: "#7c3aed",
-    imagen: "/public/imagenes/WhatsApp.jpeg",
+    imagen: "/imagenes/WhatsApp.jpeg",
   },
   {
     tipo: "Evento",
@@ -73,7 +74,7 @@ export const TRABAJOS = [
     emoji: "🏆",
     a: "#2563eb",
     b: "#7c3aed",
-    imagen: "/public/imagenes/image45.png",
+    imagen: "/imagenes/image45.png",
   },
 ];
 
